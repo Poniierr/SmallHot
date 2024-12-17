@@ -501,6 +501,13 @@ margin-right: 20px;
         display: block;
     }
 
+    .rodape{
+    background-color: green;
+    position: absolute;
+    bottom:0%;
+    width: 100%;
+    }
+
 }
 
 
